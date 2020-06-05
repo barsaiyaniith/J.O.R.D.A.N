@@ -1,0 +1,14 @@
+#Google text to speech: 
+$ pip install gtts
+
+#Speech Recognition
+$ pip install SpeechRecognition
+
+#Audio 
+$ pip install PyAudio
+
+#Wikipedia
+$ pip install wikipedia
+
+#Playsound
+$ pip install playsound
